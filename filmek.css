@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(56, 56, 56);
+    font-family: fantasy;
+ }
+ table{
+    width: 100%;
+}
+img{
+    height: 800px;
+    background-color: rgb(0, 0, 0);
+    color: black;
+    border: 5px solid #000000;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    border-radius:10%;
+}
+td{
+    color: white;
+    vertical-align: top;
+    
+}
+p{
+    font-size: 30px;
+    vertical-align: text-top;
+
+}
+h1{
+    font-size: 60px;
+    color: rgb(167, 108, 0);
+}
+.stablista{
+    text-align: right;
+    font-size: 30px;
+}
+.elozetes{
+    width: 1250px;
+    height: 800px;
+    object-fit: cover;
+}
+.narancs{
+    color: rgb(167, 108, 0);
+    font-size: 30px;
+    text-align: right;
+}
+.btn {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 50px 100px;
+    text-align: center;
+    font-size: 32px;
+    margin: 4px 2px;
+    transition: 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: rgb(167, 108, 0);
+    color: white;
+  }
